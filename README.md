@@ -10,7 +10,7 @@
 	<br />
 	<a href="https://github.com/snow1burnt"><img src="https://img.shields.io/github/stars/snow1burnt?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:hello@ranjansharma.info.np"><img src="https://img.shields.io/badge/EMAIL-hello@ranjansharma.info.np-b4befe?style=flat&logo=protonmail" /></a>
-	<a href="https://www.linkedin.com/in/neal-wang-a67717234"><img src="https://img.shields.io/badge/LINKEDIN-Ranjan_Sharma-74c7ec?style=flat&logo=linkedin" /></a>
+	<a href="https://www.linkedin.com/in/ranjan-5harma/"><img src="https://img.shields.io/badge/LINKEDIN-Ranjan_Sharma-74c7ec?style=flat&logo=linkedin" /></a>
 	<br />
 	<a href="https://www.instagram.com/snow_burnt/"><img src="https://img.shields.io/badge/Instagram-Snow_Burnt-E4405F?style=flat&logo=instagram" /></a>
 	<br />
