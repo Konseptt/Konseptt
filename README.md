@@ -28,12 +28,3 @@
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400">
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" width="400">
-    <a href="https://github.com/Konseptt">
-<p align="center">
-<img src="https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula" alt="Riddle Card" >
-</a>
