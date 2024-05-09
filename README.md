@@ -23,10 +23,13 @@
 	<a href="mailto:hello@ranjansharma.info.np"><img src="https://img.shields.io/badge/EMAIL-hello@ranjansharma.info.np-b4befe?style=flat&logo=protonmail" /></a>
 	<a href="https://www.linkedin.com/in/ranjan-5harma/"><img src="https://img.shields.io/badge/LINKEDIN-Ranjan_Sharma-74c7ec?style=flat&logo=linkedin" /></a>
 	<br />
-	<a href="https://www.instagram.com/snow_burnt/"><img src="https://img.shields.io/badge/Instagram-Snow_Burnt-E4405F?style=flat&logo=instagram" /></a>
-	<br />
 	<br />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konseptt&layout=compact&theme=vision-friendly-dark)](https://github.com/Konseptt/github-readme-stats)
+<a href="https://github.com/Konseptt/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Konseptt" />
+</a>
+<a href="https://github.com/Konseptt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konseptt&layout=compact&langs_count=8&card_width=320" />
+</a>
 
