@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-	<h1>Hi! I'm <a href="[https://ranjansharma.info.np/](https://github.com/snow1burnt)">Ranjan Sharma</a> 🐬 !</h1>
+	<h1>Hi! I'm <a href="[https://ranjansharma.info.np/](https://github.com/snow1burnt)">Konsept</a> 🐬 !</h1>
 	<div>Aspiring software engineer ✨</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
