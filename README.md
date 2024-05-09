@@ -19,9 +19,9 @@
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<br />
-	<a href="https://github.com/snow1burnt"><img src="https://img.shields.io/github/stars/snow1burnt?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="https://github.com/Konseptt"><img src="https://img.shields.io/github/stars/Konseptt?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:hello@ranjansharma.info.np"><img src="https://img.shields.io/badge/EMAIL-hello@ranjansharma.info.np-b4befe?style=flat&logo=protonmail" /></a>
-	<a href="https://www.linkedin.com/in/ranjan-5harma/"><img src="https://img.shields.io/badge/LINKEDIN-Ranjan_Sharma-74c7ec?style=flat&logo=linkedin" /></a>
+	<a href="https://www.linkedin.com/in/Konsept/"><img src="https://img.shields.io/badge/LINKEDIN-Konsept-74c7ec?style=flat&logo=linkedin" /></a>
 	<br />
 	<br />
 </div>
