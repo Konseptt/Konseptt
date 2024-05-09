@@ -26,5 +26,6 @@
 	<a href="https://www.instagram.com/snow_burnt/"><img src="https://img.shields.io/badge/Instagram-Snow_Burnt-E4405F?style=flat&logo=instagram" /></a>
 	<br />
 	<br />
-	<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Konseptt&layout=compact&theme=vision-friendly-dark)](https://github.com/Konseptt/github-readme-stats)/>
 </div>
+
+[![Konsept's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konseptt)](https://github.com/Konseptt/github-readme-stats)
