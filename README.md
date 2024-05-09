@@ -9,7 +9,7 @@
     </p>
 </h1>
 
-<div align="center">
+<div>
 	<h1>Hi! I'm <a href="[https://ranjansharma.info.np/](https://github.com/snow1burnt)">Ranjan Sharma</a> 🐬 !</h1>
 	<div>Aspiring software engineer ✨</div>
 	<br />
