@@ -26,5 +26,5 @@
 	<a href="https://www.instagram.com/snow_burnt/"><img src="https://img.shields.io/badge/Instagram-Snow_Burnt-E4405F?style=flat&logo=instagram" /></a>
 	<br />
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Konseptt&layout=compact&theme=vision-friendly-dark)](https://github.com/Konseptt/github-readme-stats)/>
 </div>
