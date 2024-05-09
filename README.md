@@ -28,4 +28,5 @@
 	<br />
 </div>
 
-[![Konsept's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konseptt)](https://github.com/Konseptt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konseptt&layout=compact&theme=vision-friendly-dark)](https://github.com/Konseptt/github-readme-stats)
+
