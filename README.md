@@ -1,3 +1,14 @@
+<h1> 
+    <p align="center">
+        <a href="https://github.com/Konseptt">  
+            <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=350&height=60&duration=4000&lines=Hello+World!+👋;+Konseptt!;">
+        </a>
+         <a href="https://github.com/Konseptt">   
+            <img align="right" src="type.gif" width="170">
+        </a>
+    </p>
+</h1>
+
 <div align="center">
 	<h1>Hi! I'm <a href="[https://ranjansharma.info.np/](https://github.com/snow1burnt)">Ranjan Sharma</a> 🐬 !</h1>
 	<div>aspiring software engineer ✨</div>
