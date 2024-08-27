@@ -26,6 +26,6 @@
 </div>
 <div align="center">
 <a href="https://github.com/Konseptt/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konseptt&layout=compact&langs_count=8&theme=vision-friendly-dark&card_width=320&hide=CSS" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konseptt&layout=compact&langs_count=8&theme=vision-friendly-dark&card_width=320&hide=CSS,Makefile" />
 </a>
 </div>
