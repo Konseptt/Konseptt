@@ -20,7 +20,7 @@
 	<br />
 	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<a href="mailto:hello@ranjansharma.info.np"><img src="https://img.shields.io/badge/EMAIL-hello@ranjansharma.info.np-b4befe?style=flat&logo=protonmail" /></a>
-	<a href="https://www.linkedin.com/in/Konsept/"><img src="https://img.shields.io/badge/LINKEDIN-Konsept-74c7ec?style=flat&logo=linkedin" /></a>
+	<a href="https://www.linkedin.com/in/Konseptt/"><img src="https://img.shields.io/badge/LINKEDIN-Konseptt-74c7ec?style=flat&logo=linkedin" /></a>
 	<br />
 	<br />
 </div>
