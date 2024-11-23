@@ -12,7 +12,7 @@
     <div>Aspiring software engineer ✨</div>
     <br />
     <a href="https://www.linux.org">
-        <img src="https://img.shields.io/badge/OS-Linux-navy?style=flat&labelColor=pink&logo=linux&logoColor=navy" alt="OS Badge"/>
+        <img src="https://img.shields.io/badge/OS-Linux-grey?style=flat&labelColor=pink&logo=linux&logoColor=grey&color=navy" alt="OS Badge"/>
     </a>
     <a href="https://neovim.io">
         <img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" alt="Neovim Badge"/>
