@@ -13,9 +13,9 @@
 	<h1>Hi! I'm <a href="[https://ranjansharma.info.np/](https://github.com/Konseptt)">Konsept</a> 🐬 !</h1>
 	<div align="center">Aspiring software engineer ✨</div>
 	<br />
-	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
-	<a href="https://nixos.org"><img src="https://img.shields.io/badge/DISTRO-NixOS-74c7ec?style=flat&logo=nixos" /></a>
-	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/DE-XMonad-eba0ac?style=flat&logo=haskell" /></a>
+	<a href="https://www.kali.org"><img src="https://img.shields.io/badge/OS-Kali_Linux-blue?style=flat&logo=kalilinux" alt="Kali Linux"/></a>
+	<a href="https://sqlmap.org"><img src="https://img.shields.io/badge/Tool-SQLMap-ff4b5c?style=flat&logo=sqlmap" alt="SQLMap"/></a>
+	<a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-007d9c?style=flat&logo=wireshark" alt="Wireshark"/></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<br />
 	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
