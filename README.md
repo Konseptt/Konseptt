@@ -32,6 +32,6 @@
 
 <div align="center">
     <a href="https://github.com/Konseptt/convoychat">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Konseptt&layout=compact&langs_count=8&theme=vision-friendly-dark&card_width=320&hide=c%2B%2B,C,HTML,CSS,SCSS" alt="Top Languages Stats" />
+        <img height=200 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konseptt)](https://github.com/Konseptt/github-readme-stats-academic)&hide=c%2B%2B,C,HTML,CSS,SCSS" alt="Top Languages Stats" />
     </a>
 </div>
