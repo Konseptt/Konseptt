@@ -24,8 +24,8 @@
     <a href="mailto:hello@ranjansharma.info.np">
         <img src="https://img.shields.io/badge/EMAIL-hello@ranjansharma.info.np-b4befe?style=flat&logo=protonmail" alt="Email Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/Konseptt/">
-        <img src="https://img.shields.io/badge/LINKEDIN-Konseptt-74c7ec?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/thekonsept/">
+        <img src="https://img.shields.io/badge/LINKEDIN-thekonsept-74c7ec?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
     </a>
     <br /><br />
 </div>
