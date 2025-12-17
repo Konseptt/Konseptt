@@ -29,7 +29,6 @@
     </a>
     <br /><br />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konseptt)](https://github.com/konseptt/github-readme-stats)
 
 <div align="center">
     <a href="https://github.com/Konseptt/convoychat">
