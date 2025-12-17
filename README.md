@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/Konseptt/convoychat">
-        <img height=200 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konseptt&layout=compact)" alt="Top Languages Stats" />
+    <a href="https://github.com/Konseptt">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konseptt&layout=compact" alt="Top Languages Stats" />
     </a>
 </div>
