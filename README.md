@@ -32,6 +32,6 @@
 
 <div align="center">
     <a href="https://github.com/Konseptt">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konseptt&layout=compact" alt="Top Languages Stats" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konseptt&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages Stats" />
     </a>
 </div>
